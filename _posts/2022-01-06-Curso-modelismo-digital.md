@@ -1,6 +1,6 @@
 ---
 title: "Curso de modelismo digital"
-date: 2021-12-30T12:34:30-01:00
+date: 2022-01-06T12:34:30-01:00
 categories:
   - Modelismo
 tags:
