@@ -167,6 +167,7 @@
 
 .block__curriculum__section__list{
     list-style-type: none;
+    padding-left: 0px;
 }
 
 .block__curriculum__section__list__item {
