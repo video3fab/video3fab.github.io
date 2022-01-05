@@ -9,7 +9,7 @@ header:
   overlay_image: https://modelismodigital.com/assets/img/header-bg.jpg
   actions:
     - label: "Acceder gratis"
-      url: "/inicio#cursos"
+      url: "#cursos"
 excerpt: "Bienvenido al mundo del"
 intro: 
   - excerpt: '<h2>¿QUÉ ES EL MODELISMO DIGITAL?:</h2> Con los cursos de Modelismo Digital te iniciarás en la manipulación en el entorno 3D y crearás objetos, terrenos, vegetación, personajes, iluminación y materiales para crear escenas completas.'
@@ -17,42 +17,42 @@ feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 1"
     title: "1. Introducción"
-    excerpt: "Ver presentación de [Capítulo 1](/blog/modelismo/Capitulo1/)"
-    url: "/inicio#cursos"
+    excerpt: "Ver presentación de [Capítulo 1](/modelismo/Capitulo1/)"
+    url: "#cursos"
     btn_label: "Acceder gratis"
     btn_class: "btn--primary"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
     alt: "placeholder image 2"
     title: "2. Creación de terrenos"
-    excerpt: "Ver presentación de [Capítulo 2](/blog/modelismo/Capitulo2/)"
+    excerpt: "Ver presentación de [Capítulo 2](/modelismo/Capitulo2/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C3_img180.jpg
     alt: "placeholder image 3"
     title: "3. Modelos"
-    excerpt: "Ver presentación de [Capítulo 3](/blog/modelismo/Capitulo3/)"
+    excerpt: "Ver presentación de [Capítulo 3](/modelismo/Capitulo3/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C4_img180.jpg
     alt: "placeholder image 4"
     title: "4. Escena Betsey"
-    excerpt: "Ver presentación de [Capítulo 4](/blog/modelismo/Capitulo4/)"
+    excerpt: "Ver presentación de [Capítulo 4](/modelismo/Capitulo4/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C5_img180.jpg
     alt: "placeholder image 5"
     title: "5. Materiales"
-    excerpt: "Ver presentación de [Capítulo 5](/blog/modelismo/Capitulo5/)"
+    excerpt: "Ver presentación de [Capítulo 5](/modelismo/Capitulo5/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C6_img180.jpg
     alt: "placeholder image 6"
     title: "6. Vegetación"
-    excerpt: "Ver presentación de [Capítulo 6](/blog/modelismo/Capitulo6/)"
+    excerpt: "Ver presentación de [Capítulo 6](/modelismo/Capitulo6/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C7_img180.jpg
     alt: "placeholder image 7"
     title: "7. Personajes"
-    excerpt: "Ver presentación de [Capítulo 7](/blog/modelismo/Capitulo7/)"
+    excerpt: "Ver presentación de [Capítulo 7](/modelismo/Capitulo7/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C8_img180.jpg
     alt: "placeholder image 8"
     title: "8. Luces, cámara, acción"
-    excerpt: "Ver presentación de [Capítulo 8](/blog/modelismo/Capitulo8/)"
+    excerpt: "Ver presentación de [Capítulo 8](/modelismo/Capitulo8/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg
     alt: "placeholder image 9"
     title: "9. Escena de Kurtz"
-    excerpt: "Ver presentación de [Capítulo 9](/blog/modelismo/Capitulo9/)"
+    excerpt: "Ver presentación de [Capítulo 9](/modelismo/Capitulo9/)"
 cursos:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 9"
