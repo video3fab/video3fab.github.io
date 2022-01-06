@@ -212,6 +212,9 @@ a {
 .block__curriculum__section__list__item__lecture-name, .block__curriculum__section__list__item__lecture-duration {
 	color: var(--brand_text);
 }
+.block__curriculum__section__list__item__lecture-name {
+    margin-right: 0.25em;
+}
 button {
 	cursor: pointer;
 	font-family: var(--font_family);
