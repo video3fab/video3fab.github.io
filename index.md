@@ -94,11 +94,13 @@ h1 {
     text-align: center;
 }
 
+@media (max-width: 37.5em)
 #main.MD {
     padding-left: 0em;
     padding-right: 0em;
 }
-  
+
+@media (max-width: 37.5em)
 #main.MD .sketchfabembed {
     padding-right: 1em;
 }
