@@ -93,6 +93,15 @@ feature_row4:
 h1 {
     text-align: center;
 }
+
+#main.MD {
+    padding-left: 0em;
+    padding-right: 0em;
+}
+  
+#main.MD .sketchfabembed {
+    padding-right: 1em;
+}
   
 .text-center {
     text-align: center !important;
