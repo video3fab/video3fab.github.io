@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: https://modelismodigital.com/assets/img/header-bg.jpg
   actions:
-    - label: "Acceder gratis"
+    - label: "Acceso gratuito"
       url: "#cursos"
 excerpt: "Bienvenido al mundo del"
 intro: 
@@ -19,7 +19,7 @@ feature_row:
     title: "1. Introducción"
     excerpt: "Ver presentación de [Capítulo 1](/modelismo/Capitulo1/)"
     url: "#cursos"
-    btn_label: "Acceder gratis"
+    btn_label: "Acceso gratuito"
     btn_class: "btn--primary"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
     alt: "placeholder image 2"
