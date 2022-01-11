@@ -254,9 +254,9 @@ Subscríbete a nuestra newsletter para recibir las últimas noticias de nuestros
 function external_new_window() {
     for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
         var b = c[a];
-        if (b.getAttribute("class") == "block__curriculum__section__list__item__link") {
-            b.href = "https://institute-of-digital-art.teachable.com" + b.getAttribute("href");
-        }         
+        //if (b.getAttribute("class") == "block__curriculum__section__list__item__link") {
+        //    b.href = "https://institute-of-digital-art.teachable.com" + b.getAttribute("href");
+        //}         
         if(b.getAttribute("href") && b.hostname !== location.hostname) {
             b.target = "_blank";
             b.rel = "noopener";
