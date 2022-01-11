@@ -168,9 +168,7 @@ div.initial-content div.page__hero--overlay {
 {% include contenido_curso.css %}
 {% include contenido_curso_icons.html %}
 
-{% include curso_introduccion.html %}
-
-{% include curso_modelismo_digital.html %}
+{% include curso_modelismo_digital_thinkific.html %}
 
 ## Escena Carentan  
 ![Scene Carentan](https://modelismodigital.com/assets/img/escenas/F_1_Scene_Carentan_1.jpg)
