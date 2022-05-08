@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Modelismo Digital
+title: video3fab
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -24,7 +24,7 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
-url: "https://modelismodigital.com"
+url: "https://video3fab.com"
 
 # Build settings
 markdown: kramdown
@@ -69,7 +69,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Modelismo Digital"
+  name   : "Video3fab"
   avatar : "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -114,7 +114,7 @@ defaults:
       share: false
       related: true
       sidebar:
-        - title: "Modelismo Digital"
+        - title: "video3fab"
           image: "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
           image_alt: "image"
           text: "Crear maquetas digitales"
