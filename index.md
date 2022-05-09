@@ -156,6 +156,72 @@ div.initial-content div.page__hero--overlay {
 
 <iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+# CREA VIDEOS E IMÁGENES EN 3D.
+<div style="text-align: center">
+<p>
+Para hacer crecer tu negocio, incrementar tus ventas e impresionar en tus presentaciones y en tu web.
+<p>
+</p>
+Atrapa la atención de tus clientes.
+<p>
+</p>
+Impacta con una imagen más profesional de tus artítuculos.
+</p>
+</div>
+
+<div class="feature__wrapper_icons" style="text-align: center; font-size: 0.8em;">
+    <div class="feature__item">
+      <div class="archive__item">
+          <div class="archive__item-teaser">
+            <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-subway fa-stack-1x fa-inverse"></i>
+            </span>
+          </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Sencillo</h2>
+            <div class="archive__item-excerpt">
+              <p>Aprender a manejar y visualizar objetos en 3D en el navegador.</p>
+            </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+          <div class="archive__item-teaser">
+             <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-tree fa-stack-1x fa-inverse"></i>
+            </span>
+          </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Rápido</h2>
+            <div class="archive__item-excerpt">
+              <p>Graba un video de tus objetos 3D con el navegador.</p>
+            </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">     
+        <div class="archive__item-teaser">
+            <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-desktop fa-stack-1x fa-inverse"></i>
+            </span>
+        </div>
+        <div class="archive__item-body">       
+            <h2 class="archive__item-title">Útil</h2>
+            <div class="archive__item-excerpt">
+              <p>Publica los videos 3D o los objetos 3D en internet.</p>
+            </div>
+        </div>
+      </div>
+    </div>
+</div>
+  
 # Capítulos
 {% include feature_row %}
 
@@ -191,58 +257,7 @@ En el Instituto de Arte Digital preparamos cursos para que puedas ser capaz de c
 </p>
 </div>
 
-<div class="feature__wrapper_icons" style="text-align: center; font-size: 0.8em;">
-    <div class="feature__item">
-      <div class="archive__item">
-          <div class="archive__item-teaser">
-            <span class="fa-stack fa-4x">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-subway fa-stack-1x fa-inverse"></i>
-            </span>
-          </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Modelos</h2>
-            <div class="archive__item-excerpt">
-              <p>Utilizar o crear modelos digitales para incluirlos en nuestros dioramas.</p>
-            </div>
-        </div>
-      </div>
-    </div>
-  
-    <div class="feature__item">
-      <div class="archive__item">
-          <div class="archive__item-teaser">
-             <span class="fa-stack fa-4x">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-tree fa-stack-1x fa-inverse"></i>
-            </span>
-          </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Entorno</h2>
-            <div class="archive__item-excerpt">
-              <p>Crear un entorno con terrenos, vegetación, edificios, árboles donde situar los modelos.</p>
-            </div>
-        </div>
-      </div>
-    </div>
-  
-    <div class="feature__item">
-      <div class="archive__item">     
-        <div class="archive__item-teaser">
-            <span class="fa-stack fa-4x">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-desktop fa-stack-1x fa-inverse"></i>
-            </span>
-        </div>
-        <div class="archive__item-body">       
-            <h2 class="archive__item-title">Visualizar</h2>
-            <div class="archive__item-excerpt">
-              <p>Generar las imágenes, videos o visualización 3D de los modelos en su entorno.</p>
-            </div>
-        </div>
-      </div>
-    </div>
-</div>
+
 
 # Newsletter
   <div style="text-align: center">
