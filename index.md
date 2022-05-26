@@ -165,7 +165,7 @@ Para hacer crecer tu negocio, incrementar tus ventas e impresionar en tus presen
 Atrapa la atención de tus clientes.
 <p>
 </p>
-Impacta con una imagen más profesional de tus artítuculos.
+Impacta con una imagen más profesional de tus artículos.
 </p>
 </div>
 
@@ -222,7 +222,6 @@ Impacta con una imagen más profesional de tus artítuculos.
     </div>
 </div>
 
-<iframe src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="700px" height="430px" />
 
 # Capítulos
 {% include feature_row %}
