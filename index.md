@@ -16,43 +16,17 @@ intro:
 feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 1"
-    title: "1. Introducción"
-    excerpt: "Ver presentación de [Capítulo 1](/modelismo/Capitulo1/)"
-    url: "#cursos"
-    btn_label: "Acceso gratuito"
-    btn_class: "btn--primary"
+    title: "1. Visualizar en 3D"
+    excerpt: "Aprender a manejar y visualizar objetos en 3D en el navegador"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
     alt: "placeholder image 2"
-    title: "2. Creación de terrenos"
-    excerpt: "Ver presentación de [Capítulo 2](/modelismo/Capitulo2/)"
+    title: "2. Realizar videos"
+    excerpt: "Graba un video de tus objetos 3D con el navegador"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C3_img180.jpg
     alt: "placeholder image 3"
-    title: "3. Modelos"
-    excerpt: "Ver presentación de [Capítulo 3](/modelismo/Capitulo3/)"
-  - image_path: https://modelismodigital.com/assets/img/capitulos/C4_img180.jpg
-    alt: "placeholder image 4"
-    title: "4. Escena Betsey"
-    excerpt: "Ver presentación de [Capítulo 4](/modelismo/Capitulo4/)"
-  - image_path: https://modelismodigital.com/assets/img/capitulos/C5_img180.jpg
-    alt: "placeholder image 5"
-    title: "5. Materiales"
-    excerpt: "Ver presentación de [Capítulo 5](/modelismo/Capitulo5/)"
-  - image_path: https://modelismodigital.com/assets/img/capitulos/C6_img180.jpg
-    alt: "placeholder image 6"
-    title: "6. Vegetación"
-    excerpt: "Ver presentación de [Capítulo 6](/modelismo/Capitulo6/)"
-  - image_path: https://modelismodigital.com/assets/img/capitulos/C7_img180.jpg
-    alt: "placeholder image 7"
-    title: "7. Personajes"
-    excerpt: "Ver presentación de [Capítulo 7](/modelismo/Capitulo7/)"
-  - image_path: https://modelismodigital.com/assets/img/capitulos/C8_img180.jpg
-    alt: "placeholder image 8"
-    title: "8. Luces, cámara, acción"
-    excerpt: "Ver presentación de [Capítulo 8](/modelismo/Capitulo8/)"
-  - image_path: https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg
-    alt: "placeholder image 9"
-    title: "9. Escena de Kurtz"
-    excerpt: "Ver presentación de [Capítulo 9](/modelismo/Capitulo9/)"
+    title: "3. Publciar en al web"
+    excerpt: "Publica los videos 3D o los objetos 3D en internet"
+  
 cursos:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 9"
@@ -186,7 +160,7 @@ Impacta con una imagen más profesional de tus artículos.
         <div class="archive__item-body">
             <h2 class="archive__item-title">Sencillo</h2>
             <div class="archive__item-excerpt">
-              <p>Aprender a manejar y visualizar objetos en 3D en el navegador.</p>
+              <p>Aprender a manejar y visualizar objetos en 3D en el navegador</p>
             </div>
         </div>
       </div>
@@ -203,7 +177,7 @@ Impacta con una imagen más profesional de tus artículos.
         <div class="archive__item-body">
             <h2 class="archive__item-title">Rápido</h2>
             <div class="archive__item-excerpt">
-              <p>Graba un video de tus objetos 3D con el navegador.</p>
+              <p>Graba un video de tus objetos 3D con el navegador</p>
             </div>
         </div>
       </div>
@@ -220,7 +194,7 @@ Impacta con una imagen más profesional de tus artículos.
         <div class="archive__item-body">       
             <h2 class="archive__item-title">Útil</h2>
             <div class="archive__item-excerpt">
-              <p>Publica los videos 3D o los objetos 3D en internet.</p>
+              <p>Publica los videos 3D o los objetos 3D en internet</p>
             </div>
         </div>
       </div>
@@ -231,7 +205,7 @@ Impacta con una imagen más profesional de tus artículos.
 <iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="700px" height="430px"></iframe>
 
 
-# Capítulos
+# Videos
 {% include feature_row %}
 
 ## Ejemplo escena 3D
