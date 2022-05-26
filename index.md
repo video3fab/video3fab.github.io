@@ -150,6 +150,11 @@ div.initial-content div.page__hero--overlay {
     background-color: #e84430;
 }
 
+iframe.form {
+    /* text-align: center; */
+    display: block;
+    margin: 0 auto;
+}
 </style>
   
 {% include feature_row id="intro" type="center" %}
@@ -223,7 +228,7 @@ Impacta con una imagen más profesional de tus artículos.
 </div>
 
 # Solicita 
-<iframe src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="700px" height="430px"></iframe>
+<iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="700px" height="430px"></iframe>
 
 
 # Capítulos
