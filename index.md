@@ -113,12 +113,6 @@ div.initial-content div.page__hero--overlay {
     margin-bottom: 36px;
 }
 
-.feature__wrapper .feature__item:first-child {
-    border: 10px solid red;
-    border-radius: 21px;
-    padding: 3px;
-    margin-bottom: 12px;
-}
 
 .feature__item:first-child .btn--primary {
     background-color: #e84430;
@@ -135,7 +129,7 @@ iframe.form {
 
 <iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-# CREA VIDEOS E IMÁGENES EN 3D.
+# CREA VIDEOS E IMÁGENES EN 3D
 <div style="text-align: center">
 <p>
 Para hacer crecer tu negocio, incrementar tus ventas e impresionar en tus presentaciones y en tu web.
