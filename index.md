@@ -24,7 +24,7 @@ feature_row:
     excerpt: "Graba un video de tus objetos 3D con el navegador"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C3_img180.jpg
     alt: "placeholder image 3"
-    title: "3. Publciar en al web"
+    title: "3. Publicar en la web"
     excerpt: "Publica los videos 3D o los objetos 3D en internet"
   
 cursos:
@@ -130,20 +130,21 @@ iframe.form {
 <!--
 <iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 -->
-  
+
+
 <iframe src="https://player.vimeo.com/video/714565588?h=c8e7bf777f&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
   
 
 # CREA VIDEOS E IMÁGENES EN 3D
 <div style="text-align: center">
 <p>
-Para hacer crecer tu negocio, incrementar tus ventas e impresionar en tus presentaciones y en tu web.
+Para hacer crecer tu negocio, incrementar tus ventas e impresionar en tus presentaciones y en tu web
 <p>
 </p>
-Atrapa la atención de tus clientes.
+Atrapa la atención de tus clientes
 <p>
 </p>
-Impacta con una imagen más profesional de tus artículos.
+Impacta con una imagen más profesional de tus artículos
 </p>
 </div>
 
@@ -201,8 +202,10 @@ Impacta con una imagen más profesional de tus artículos.
 </div>
 
 # Solicita 
+<figure class="half full">
+<iframe src="https://player.vimeo.com/video/714565588?h=c8e7bf777f&title=0&byline=0&portrait=0" width="700" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="700px" height="430px"></iframe>
-
+</figure>
 
 # Videos
 {% include feature_row %}
