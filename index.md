@@ -203,8 +203,8 @@ Impacta con una imagen más profesional de tus artículos
 
 # Solicita 
 <figure class="half full">
-<iframe src="https://player.vimeo.com/video/714565588?h=c8e7bf777f&title=0&byline=0&portrait=0" width="700" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="700px" height="430px"></iframe>
+<iframe src="https://player.vimeo.com/video/714565588?h=c8e7bf777f&title=0&byline=0&portrait=0" width="400px" height="300px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="400px" height="430px"></iframe>
 </figure>
 
 # Videos
