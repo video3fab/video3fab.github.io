@@ -201,7 +201,7 @@ Impacta con una imagen más profesional de tus artículos
     </div>
 </div>
 
-# Solicita 
+# Solicita ver los videos
 <figure class="half">
 <iframe class=fitvidsignore  src="https://player.vimeo.com/video/714565588?h=c8e7bf777f&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="400" height="450"></iframe>
