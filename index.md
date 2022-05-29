@@ -3,14 +3,6 @@ title: "Videos de objetos 3D"
 layout: splash
 permalink: /
 date: 2021-12-03T12:00:00-00:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: https://modelismodigital.com/assets/img/header-bg.jpg
-  actions:
-    - label: "Acceso gratuito"
-      url: "#cursos"
-excerpt: "Bienvenido al mundo del"
 intro: 
   - excerpt: '<h2>¿QUÉ ES EL VIDEO 3D?:</h2> Con los cursos de video3fab te iniciarás en la utilización, grabación y manipulación en el entorno 3D y crearás videos para mostrar tus productos y servicios.'
 feature_row:
@@ -124,15 +116,15 @@ iframe.form {
     margin: 0 auto;
 }
 </style>
-  
+
+# Videos 3D
+<figure class="half">
+<iframe class=fitvidsignore  src="https://player.vimeo.com/video/714565588?h=c8e7bf777f&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="400" height="450"></iframe>
+</figure>
+
+
 {% include feature_row id="intro" type="center" %}
-
-<!--
-<iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
--->
-
-
-<iframe src="https://player.vimeo.com/video/714565588?h=c8e7bf777f&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
   
 
 # CREA VIDEOS E IMÁGENES EN 3D
@@ -201,12 +193,6 @@ Impacta con una imagen más profesional de tus artículos
     </div>
 </div>
 
-# Solicita tus videos
-<figure class="half">
-<iframe class=fitvidsignore  src="https://player.vimeo.com/video/714565588?h=c8e7bf777f&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="400" height="450"></iframe>
-</figure>
-
 # Videos
 {% include feature_row %}
 
@@ -218,8 +204,6 @@ Impacta con una imagen más profesional de tus artículos
   
 {% include contenido_curso.css %}
 {% include contenido_curso_icons.html %}
-
-{% include curso_modelismo_digital_thinkific.html %}
 
 ## Escena Carentan  
 ![Scene Carentan](https://modelismodigital.com/assets/img/escenas/F_1_Scene_Carentan_1.jpg)
@@ -266,7 +250,7 @@ function external_new_window() {
 external_new_window();
 </script>
 
-Time (index.md_):  {{site.time}}
+Time (index.md 01):  {{site.time}}
 
 <!-- sketchfab width="1110" height="600"  -->
 
