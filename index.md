@@ -1,8 +1,16 @@
 ---
-title: "Video 3D"
+title: "Videos de objetos 3D"
 layout: splash
 permalink: /
 date: 2021-12-03T12:00:00-00:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: https://modelismodigital.com/assets/img/header-bg.jpg
+  actions:
+    - label: "Acceso gratuito"
+      url: "#cursos"
+excerpt: "Bienvenido al mundo del"
 intro: 
   - excerpt: '<h2>¿QUÉ ES EL VIDEO 3D?:</h2> Con los cursos de video3fab te iniciarás en la utilización, grabación y manipulación en el entorno 3D y crearás videos para mostrar tus productos y servicios.'
 feature_row:
