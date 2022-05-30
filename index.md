@@ -131,7 +131,7 @@ iframe.form {
 <iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="400" height="450"></iframe>
 </figure>
 
-# Videos
+# APRENDERÁS EN 14 MINUTOS A:
 {% include feature_row %}
 
 <div class="feature__wrapper_icons" style="text-align: center; font-size: 0.8em;">
@@ -140,7 +140,7 @@ iframe.form {
           <div class="archive__item-teaser">
             <span class="fa-stack fa-4x">
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-subway fa-stack-1x fa-inverse"></i>
+                <i class="fas fa-tree fa-stack-1x fa-inverse"></i>
             </span>
           </div>
         <div class="archive__item-body">
@@ -157,7 +157,7 @@ iframe.form {
           <div class="archive__item-teaser">
              <span class="fa-stack fa-4x">
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-tree fa-stack-1x fa-inverse"></i>
+                <i class="fas fa-subway fa-stack-1x fa-inverse"></i>
             </span>
           </div>
         <div class="archive__item-body">
