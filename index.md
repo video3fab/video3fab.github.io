@@ -55,6 +55,14 @@ feature_row4:
 ---
 
 <style>
+
+body {
+  background-color: #f9f9f9;
+}
+
+iframe.fitvidsignore, iframe.form {
+  border: 1px solid black;
+}
   
 h1 {
     text-align: center;
@@ -250,7 +258,7 @@ function external_new_window() {
 external_new_window();
 </script>
 
-Time (index.md 01):  {{site.time}}
+Time (index.md 02):  {{site.time}}
 
 <!-- sketchfab width="1110" height="600"  -->
 
