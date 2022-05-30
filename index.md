@@ -131,22 +131,8 @@ iframe.form {
 <iframe class=form src="https://cdn.forms-content.sg-form.com/d69545c3-d933-11ec-a60a-f67ab46f66ac"  width="400" height="450"></iframe>
 </figure>
 
-
-{% include feature_row id="intro" type="center" %}
-  
-
-# CREA VIDEOS E IMÁGENES EN 3D
-<div style="text-align: center">
-<p>
-Para hacer crecer tu negocio, incrementar tus ventas e impresionar en tus presentaciones y en tu web
-<p>
-</p>
-Atrapa la atención de tus clientes
-<p>
-</p>
-Impacta con una imagen más profesional de tus artículos
-</p>
-</div>
+# Videos
+{% include feature_row %}
 
 <div class="feature__wrapper_icons" style="text-align: center; font-size: 0.8em;">
     <div class="feature__item">
@@ -201,8 +187,22 @@ Impacta con una imagen más profesional de tus artículos
     </div>
 </div>
 
-# Videos
-{% include feature_row %}
+{% include feature_row id="intro" type="center" %}
+  
+
+# CREA VIDEOS E IMÁGENES EN 3D
+<div style="text-align: center">
+<p>
+Para hacer crecer tu negocio, incrementar tus ventas e impresionar en tus presentaciones y en tu web
+<p>
+</p>
+Atrapa la atención de tus clientes
+<p>
+</p>
+Impacta con una imagen más profesional de tus artículos
+</p>
+</div>
+
 
 ## Ejemplo escena 3D
 <div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        
